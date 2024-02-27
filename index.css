@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(228, 228, 170);
+}
+header nav{
+    text-align: center;
+}
+header li{
+    list-style: none;
+    display: inline-block;
+}
+header a{
+    text-decoration: none;
+    margin: 10px;
+}
+.logo{
+    text-align: center;
+    font-size: 30px;
+}
+img{
+    height: 90px;
+}
